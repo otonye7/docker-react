@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          FUCK EBIETO
+          NAH SORRY THAT NIGGA TERRY IS RUDE AS FUCK
         </p>
         <a
           className="App-link"
